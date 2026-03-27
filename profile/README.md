@@ -7,4 +7,5 @@
 
 ## 项目结构
 
-- [`JDParser`](https://github.com/WHUKE/JDParser)：知识收集与抽取
+- [`JDParser`](https://github.com/WHUKE/JDParser)：知识抽取
+- [`JDParser`](https://github.com/WHUKE/Reports)：课程报告
